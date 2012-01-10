@@ -1,0 +1,6 @@
+###Sliced Apples###
+
+A Compilation of useful shell scripts for OSX Server 10.6. 
+
+=>details.sh
+	*Outputs useful System Profiler to clipboard or file.
