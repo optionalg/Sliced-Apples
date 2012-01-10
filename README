@@ -3,4 +3,4 @@
 A Compilation of useful shell scripts for OSX Server 10.6. 
 
 =>details.sh
-	*Outputs useful System Profiler to clipboard or file.
+	*Outputs select System Profiler items to file and clipboard.
