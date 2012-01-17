@@ -4,3 +4,6 @@ A Compilation of useful shell scripts for OSX Server 10.6.
 
 =>details.sh
 	*Outputs select System Profiler items to file and clipboard.
+
+=>macmacs.rb
+	*Parses server export files and outputs hardware addresses to a .csv
